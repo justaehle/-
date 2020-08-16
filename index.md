@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Also zum Beispiel so: Hier kommt ihr zur [Physik](https://justaehle.github.io/website/Physik) Seite.
+Also zum Beispiel so: Hier kommt ihr zur [About](https://justaehle.github.io/website/about.md) Seite.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
