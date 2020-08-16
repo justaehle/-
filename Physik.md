@@ -1,4 +1,4 @@
 layout: page
-title: "PAGE TITLE"
+title: "Geniale Physik"
 permalink: /Physik
 # Physik Stuff
